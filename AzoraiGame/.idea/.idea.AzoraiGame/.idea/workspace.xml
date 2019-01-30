@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d06a7219-1075-409b-b6c1-912988430522" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/e6/e633a20421c47426aa04444234225b69.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/e6/e633a20421c47426aa04444234225b69.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/1574e09473badbd64602ee07995dab4f.lt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/ProcessJobs/1574e09473badbd64602ee07995dab4f.lt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/1574e09473badbd64602ee07995dab4f.vis" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/ProcessJobs/1574e09473badbd64602ee07995dab4f.vis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/2c96460937f33797b0f8183292a233bf.lt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/ProcessJobs/2c96460937f33797b0f8183292a233bf.lt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/5b692f8de894f47c6447b6e1643219ec.lt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/ProcessJobs/5b692f8de894f47c6447b6e1643219ec.lt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/9738c59effc9f0f57a0671e862472cf9.lt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/ProcessJobs/9738c59effc9f0f57a0671e862472cf9.lt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/9738c59effc9f0f57a0671e862472cf9.vis" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/ProcessJobs/9738c59effc9f0f57a0671e862472cf9.vis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/ffc13f31437212b6d7331751b3321283.lt" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/ProcessJobs/ffc13f31437212b6d7331751b3321283.lt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/ProcessJobs/ffc13f31437212b6d7331751b3321283.vis" beforeDir="false" afterPath="$PROJECT_DIR$/Temp/ProcessJobs/ffc13f31437212b6d7331751b3321283.vis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-0ecd0cc448a5a4580b24a2b0ada1a7cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-26e9eb2a31d5b4694b9abf3bd10d3bb6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-2a4907a20ca254495a8041b0886c7e3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-30746f5fb7bf64b2a9f85d41c94c18ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-4cc0f5c719d7f4177a3365dadf5a6246" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-51bedfc39f6ac41409b1db059e34d028" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-603725dc21ab64d259b92d8fdff425d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-782dad1e1f1784cc3b2161005b26de5c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-88430627f16ca4cee8db8ba50a6b8e7f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8aa77636555ff46c1ac1ecc9afcf0489" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-8ccb42272227d43848935d9f15f97792" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a4a129ec1b5ec4bed8aaedd7b4727607" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-a64141b411d5d43d89a09cb974d77637" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-af1c9a821ea884a26b5fec22ebbf4381" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-b7e862c7bef11410f8668c6c1fc41a7d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bb1242c0d9c4a49ec864bad2fb4354d4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-bf6584de39cd948cfb4e79ddca225b0c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-c5b8bcddcb97d4bc3be835e1a14890c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-d3d2928e57e314b0d9157d3ce03b035b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-de4c592834c0d4c15b309e36fca6ae68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-e1f77a4a0037f4c80ba38117e623372b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/UnityTempFile-ee9998df1bcf146f888d84ed5265e4b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temp/__Backupscenes/0.backup" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-57715679">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyScripts/AziBag.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-13">
+              <folding>
+                <marker date="1548856575192" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548856575192" expanded="true" signature="116:1043" ph="{...}" />
+                <marker date="1548856575192" expanded="true" signature="327:924" ph="{...}" />
+                <marker date="1548856575192" expanded="true" signature="389:437" ph="{...}" />
+                <marker date="1548856575192" expanded="true" signature="473:523" ph="{...}" />
+                <marker date="1548856575192" expanded="true" signature="559:610" ph="{...}" />
+                <marker date="1548856575192" expanded="true" signature="640:688" ph="{...}" />
+                <marker date="1548856575192" expanded="true" signature="719:767" ph="{...}" />
+                <marker date="1548856575192" expanded="true" signature="796:843" ph="{...}" />
+                <marker date="1548856575192" expanded="true" signature="873:920" ph="{...}" />
+                <marker date="1548856575192" expanded="true" signature="972:979" ph="{...}" />
+                <marker date="1548856575192" expanded="true" signature="1034:1041" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyScripts/AziHealth.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1548856575198" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548856575198" expanded="true" signature="80:162" ph="/* The azi Health script controls the looks after the helth of an azorai. ... */" />
+                <marker date="1548856575198" expanded="true" signature="204:1749" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="446:471" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="579:732" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="655:728" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="839:876" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="936:966" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="1054:1289" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="1076:1286" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="1106:1259" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="1312:1361" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="1442:1519" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="1467:1516" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="1585:1630" ph="{...}" />
+                <marker date="1548856575198" expanded="true" signature="1680:1744" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MyScripts/aziSpawn.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2">
+              <folding>
+                <marker date="1548856575204" expanded="false" signature="6:78" ph="..." />
+                <marker date="1548856575204" expanded="true" signature="118:1204" ph="{...}" />
+                <marker date="1548856575204" expanded="true" signature="377:696" ph="{...}" />
+                <marker date="1548856575204" expanded="true" signature="382:499" ph="/* when the Azorai is created the new stats will be randamly assigned ... */" />
+                <marker date="1548856575204" expanded="true" signature="712:719" ph="{...}" />
+                <marker date="1548856575204" expanded="true" signature="770:1202" ph="{...}" />
+                <marker date="1548856575204" expanded="true" signature="775:875" ph="/* this method creats the new azorai and sets the new stats to that of the new azorai ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/MyScripts/AzoraiAI.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4127">
+              <caret line="184" column="47" lean-forward="true" selection-start-line="184" selection-start-column="47" selection-end-line="184" selection-end-column="47" />
+              <folding>
+                <marker date="1548856575212" expanded="false" signature="6:100" ph="..." />
+                <marker date="1548856575212" expanded="true" signature="102:153" ph="/* This is the main brain for the Azorai ... */" />
+                <marker date="1548856575212" expanded="true" signature="193:11229" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="197:250" ph="/* all the possible states for the azorai ... */" />
+                <marker date="1548856575212" expanded="true" signature="276:406" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="951:1003" ph="/* private float intalect = 5; ... */" />
+                <marker date="1548856575212" expanded="true" signature="1339:1384" ph="/* variables fro outside objects ... */" />
+                <marker date="1548856575212" expanded="true" signature="1508:1670" ph="/* These getters and setters are for the spawn pionts for azorai. and to allow scatterpods ... */" />
+                <marker date="1548856575212" expanded="true" signature="1706:1730" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="1765:1789" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="1818:1842" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="1879:1901" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="1928:1952" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="1991:2018" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="2045:2066" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="2103:2126" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="2163:2185" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="2188:2374" ph="/* on trigger events are called when two coliders make contact ... */" />
+                <marker date="1548856575212" expanded="true" signature="2410:3993" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="2530:2840" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="2944:3267" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="3195:3261" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="3373:3407" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="3438:3489" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="3525:3579" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="3615:3666" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="3696:3747" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="3778:3829" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="3858:3909" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="3939:3990" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="4074:4846" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="4095:4842" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="4123:4814" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="4850:4899" ph="/* gets all components for the Azorai ... */" />
+                <marker date="1548856575212" expanded="true" signature="4920:5434" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="5315:5384" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="5438:5484" ph="/* setup for the Azorai components ... */" />
+                <marker date="1548856575212" expanded="true" signature="5506:5709" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="5582:5641" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="5641:5706" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="5713:5778" ph="/* What the Azorai should do if it is in the village ... */" />
+                <marker date="1548856575212" expanded="true" signature="5808:6168" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="5883:5899" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="5939:6038" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="6062:6165" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="6173:6240" ph="/* What the azorai should do if it is out in the world ... */" />
+                <marker date="1548856575212" expanded="true" signature="6269:6852" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="6346:6442" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="6487:6711" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="6740:6845" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="6777:6840" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="6856:6937" ph="/* Advantage fear check is performed when the azorai meets and enamy ... */" />
+                <marker date="1548856575212" expanded="true" signature="6973:7406" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="7235:7287" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="7410:7464" ph="/* if the azorai thinks itcan win do this ... */" />
+                <marker date="1548856575212" expanded="true" signature="7489:8255" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="7641:7840" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="7995:8050" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="8083:8211" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="8259:8313" ph="/* if the Azorai thinks it may die do this ... */" />
+                <marker date="1548856575212" expanded="true" signature="8338:8695" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="8454:8692" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="8478:8602" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="8626:8688" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="8698:8769" ph="/* how the Azorai behavis if it finds a gatherable objects ... */" />
+                <marker date="1548856575212" expanded="true" signature="8794:8800" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="8805:8882" ph="/* controls how the Azorai behaves if the player is in controle. ... */" />
+                <marker date="1548856575212" expanded="true" signature="8898:9873" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="9124:9200" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="9234:9311" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="9345:9413" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="9447:9514" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="9557:9575" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="9618:9870" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="9736:9796" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="9796:9866" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="9894:10046" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="10069:11069" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="10104:10325" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="10136:10321" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="10327:11066" ph="{...}" />
+                <marker date="1548856575212" expanded="true" signature="10341:10884" ph="/* this code is used to creat a new projectile for the azorai. due to the way it attaches the ... */" />
+                <marker date="1548856575212" expanded="true" signature="11118:11224" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/AzoraiAI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/aziSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/AziBag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyScripts/AziHealth.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="y" value="100" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="AzoraiGame" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="AzoraiGame" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="AzoraiGame" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="MyScripts" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d06a7219-1075-409b-b6c1-912988430522" name="Default Changelist" comment="" />
+      <created>1548879416576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548879416576</updated>
+      <workItem from="1548879417821" duration="23000" />
+      <workItem from="1548879443637" duration="1000" />
+      <workItem from="1548879536023" duration="185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="209000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="260" y="100" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/MyScripts/AziBag.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <folding>
+            <marker date="1548856575192" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548856575192" expanded="true" signature="116:1043" ph="{...}" />
+            <marker date="1548856575192" expanded="true" signature="327:924" ph="{...}" />
+            <marker date="1548856575192" expanded="true" signature="389:437" ph="{...}" />
+            <marker date="1548856575192" expanded="true" signature="473:523" ph="{...}" />
+            <marker date="1548856575192" expanded="true" signature="559:610" ph="{...}" />
+            <marker date="1548856575192" expanded="true" signature="640:688" ph="{...}" />
+            <marker date="1548856575192" expanded="true" signature="719:767" ph="{...}" />
+            <marker date="1548856575192" expanded="true" signature="796:843" ph="{...}" />
+            <marker date="1548856575192" expanded="true" signature="873:920" ph="{...}" />
+            <marker date="1548856575192" expanded="true" signature="972:979" ph="{...}" />
+            <marker date="1548856575192" expanded="true" signature="1034:1041" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyScripts/AziHealth.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1548856575198" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548856575198" expanded="true" signature="80:162" ph="/* The azi Health script controls the looks after the helth of an azorai. ... */" />
+            <marker date="1548856575198" expanded="true" signature="204:1749" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="446:471" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="579:732" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="655:728" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="839:876" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="936:966" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="1054:1289" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="1076:1286" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="1106:1259" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="1312:1361" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="1442:1519" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="1467:1516" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="1585:1630" ph="{...}" />
+            <marker date="1548856575198" expanded="true" signature="1680:1744" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyScripts/aziSpawn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <folding>
+            <marker date="1548856575204" expanded="false" signature="6:78" ph="..." />
+            <marker date="1548856575204" expanded="true" signature="118:1204" ph="{...}" />
+            <marker date="1548856575204" expanded="true" signature="377:696" ph="{...}" />
+            <marker date="1548856575204" expanded="true" signature="382:499" ph="/* when the Azorai is created the new stats will be randamly assigned ... */" />
+            <marker date="1548856575204" expanded="true" signature="712:719" ph="{...}" />
+            <marker date="1548856575204" expanded="true" signature="770:1202" ph="{...}" />
+            <marker date="1548856575204" expanded="true" signature="775:875" ph="/* this method creats the new azorai and sets the new stats to that of the new azorai ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyScripts/AzoraiAI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4127">
+          <caret line="184" column="47" lean-forward="true" selection-start-line="184" selection-start-column="47" selection-end-line="184" selection-end-column="47" />
+          <folding>
+            <marker date="1548856575212" expanded="false" signature="6:100" ph="..." />
+            <marker date="1548856575212" expanded="true" signature="102:153" ph="/* This is the main brain for the Azorai ... */" />
+            <marker date="1548856575212" expanded="true" signature="193:11229" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="197:250" ph="/* all the possible states for the azorai ... */" />
+            <marker date="1548856575212" expanded="true" signature="276:406" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="951:1003" ph="/* private float intalect = 5; ... */" />
+            <marker date="1548856575212" expanded="true" signature="1339:1384" ph="/* variables fro outside objects ... */" />
+            <marker date="1548856575212" expanded="true" signature="1508:1670" ph="/* These getters and setters are for the spawn pionts for azorai. and to allow scatterpods ... */" />
+            <marker date="1548856575212" expanded="true" signature="1706:1730" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="1765:1789" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="1818:1842" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="1879:1901" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="1928:1952" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="1991:2018" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="2045:2066" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="2103:2126" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="2163:2185" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="2188:2374" ph="/* on trigger events are called when two coliders make contact ... */" />
+            <marker date="1548856575212" expanded="true" signature="2410:3993" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="2530:2840" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="2944:3267" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="3195:3261" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="3373:3407" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="3438:3489" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="3525:3579" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="3615:3666" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="3696:3747" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="3778:3829" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="3858:3909" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="3939:3990" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="4074:4846" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="4095:4842" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="4123:4814" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="4850:4899" ph="/* gets all components for the Azorai ... */" />
+            <marker date="1548856575212" expanded="true" signature="4920:5434" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="5315:5384" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="5438:5484" ph="/* setup for the Azorai components ... */" />
+            <marker date="1548856575212" expanded="true" signature="5506:5709" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="5582:5641" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="5641:5706" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="5713:5778" ph="/* What the Azorai should do if it is in the village ... */" />
+            <marker date="1548856575212" expanded="true" signature="5808:6168" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="5883:5899" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="5939:6038" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="6062:6165" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="6173:6240" ph="/* What the azorai should do if it is out in the world ... */" />
+            <marker date="1548856575212" expanded="true" signature="6269:6852" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="6346:6442" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="6487:6711" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="6740:6845" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="6777:6840" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="6856:6937" ph="/* Advantage fear check is performed when the azorai meets and enamy ... */" />
+            <marker date="1548856575212" expanded="true" signature="6973:7406" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="7235:7287" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="7410:7464" ph="/* if the azorai thinks itcan win do this ... */" />
+            <marker date="1548856575212" expanded="true" signature="7489:8255" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="7641:7840" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="7995:8050" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="8083:8211" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="8259:8313" ph="/* if the Azorai thinks it may die do this ... */" />
+            <marker date="1548856575212" expanded="true" signature="8338:8695" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="8454:8692" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="8478:8602" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="8626:8688" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="8698:8769" ph="/* how the Azorai behavis if it finds a gatherable objects ... */" />
+            <marker date="1548856575212" expanded="true" signature="8794:8800" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="8805:8882" ph="/* controls how the Azorai behaves if the player is in controle. ... */" />
+            <marker date="1548856575212" expanded="true" signature="8898:9873" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="9124:9200" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="9234:9311" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="9345:9413" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="9447:9514" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="9557:9575" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="9618:9870" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="9736:9796" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="9796:9866" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="9894:10046" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="10069:11069" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="10104:10325" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="10136:10321" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="10327:11066" ph="{...}" />
+            <marker date="1548856575212" expanded="true" signature="10341:10884" ph="/* this code is used to creat a new projectile for the azorai. due to the way it attaches the ... */" />
+            <marker date="1548856575212" expanded="true" signature="11118:11224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
